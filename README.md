@@ -44,10 +44,12 @@ API running here → [Hugging Face Space](https://huggingface.co/spaces/khushie2
 
 ## 📁 Project Structure
 
+```
 recipe-generator/
-├── backend/ → FastAPI + Gemini + TheMealDB integration
-├── frontend/ → React app, wrapped into an Android APK via Capacitor
-└── app-release.apk → ready to sideload and try
+├── backend/     → FastAPI + Gemini + TheMealDB integration
+├── frontend/    → React app, wrapped into an Android APK via Capacitor
+└── app-release.apk   → ready to sideload and try
+```
 
 
 ## 🚀 Run it locally
